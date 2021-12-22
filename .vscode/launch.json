@@ -8,7 +8,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/build/HERORM2022",
+            "program": "${workspaceFolder}/build/demo",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}/build/",
